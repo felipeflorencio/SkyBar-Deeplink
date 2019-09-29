@@ -16,13 +16,13 @@ Free tool that allows you easy open any deep link that you have in your simulato
 
 Even more, any deeplink that you use will be saved, so, you can chose again the same one that you used before without any problem.
 
-|                   | Main Features                                                   |
-| ----------------- | --------------------------------------------------------------- |
-| &#9989; &#129321; | GUI for open deep links and persist the ones that you ared used | 
-| &#9989; &#128535; | Open any simulator even if close                                |
-| &#9989; &#129395; | You can see which simulator is running or chose a new one       |
-| &#9989; &#128526; | Persist until 100 deep links                                    |
-| &#9989; &#128737; | Signed by official apple developer account, it's safe to use    |
+|                   | Main Features                                                      |
+| ----------------- | ------------------------------------------------------------------ |
+| &#9989; &#129321; | GUI for open deep links and persist the ones that you already used | 
+| &#9989; &#128535; | Open any simulator even if close                                   |
+| &#9989; &#129395; | You can see which simulator is running or chose a new one          |
+| &#9989; &#128526; | Persist until 100 deep links                                       |
+| &#9989; &#128737; | Signed by official apple developer account, it's safe to use       |
 
 &#127462; &#127484; &#127466; &#127480; &#127480; &#127476; &#127474; &#127466;
 
